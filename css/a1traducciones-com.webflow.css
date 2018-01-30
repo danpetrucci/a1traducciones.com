@@ -466,6 +466,9 @@ html.w-mod-js *[data-ix="scale-on-scroll"] {
     width: 20%;
     padding: 20px;
   }
+  .tabs-wrapper {
+    width: 80%;
+  }
   .spc {
     margin-bottom: 30px;
   }
@@ -479,11 +482,18 @@ html.w-mod-js *[data-ix="scale-on-scroll"] {
     padding-top: 60px;
     padding-bottom: 60px;
   }
+  .hero-heading {
+    font-size: 30px;
+    line-height: 40px;
+  }
   .section-subheading.center {
     line-height: 30px;
   }
   .grid-image {
     width: 35%;
+  }
+  .tabs-wrapper {
+    width: 95%;
   }
 }
 
